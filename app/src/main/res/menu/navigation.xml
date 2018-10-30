@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_last_match"
+        android:icon="@drawable/ic_last_match_black_24dp"
+        android:title="Last Match" />
+
+
+    <item
+        android:id="@+id/navigation_next_match"
+        android:icon="@drawable/ic_next_match_black_24dp"
+        android:title="Next Match" />
+
+    <item
+        android:id="@+id/navigation_favorite"
+        android:icon="@drawable/ic_added_to_favorites"
+        android:title="Favorite"
+
+        />
+</menu>
